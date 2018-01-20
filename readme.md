@@ -4,7 +4,7 @@ This project contains a *C++* class that allows the enumeration of devices using
 
 ## Contents
 
-The project contains the class itself (DeviceEnumerator.h and DeviceEnumerator.cpp) and also an example of how to use the class (CameraTestOpenCV.cpp)
+The project contains the class itself (DeviceEnumerator.h and DeviceEnumerator.cpp) and also an example of how to use the class (OpenCVDeviceEnumerator.cpp)
 
 ## License
 
