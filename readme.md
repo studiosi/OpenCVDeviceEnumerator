@@ -1,6 +1,6 @@
 # Device Enumerator for OpenCV 
 
-This project contains a *C++* class that allows the enumeration of devices using DirectShow in Windows, in order to select and obtain the ID that needs to be used with OpenCV when creating, for example, a VideoCapture object to grab frames from a camera. I decided to put this up as "How to get the ID of a device to use inside OpenCV?" is a question that pops up continuously.
+This project contains a *C++* class that allows the enumeration of devices using DirectShow in Windows, in order to select and obtain the ID that needs to be used with OpenCV when creating, for example, a VideoCapture object to grab frames from a camera. I decided to put this up as "How to get the ID of a device to use inside OpenCV?" is a question that pops up continuously. The maintainers of OpenCV don't include this functionality in the library because it is *very* operating system dependant.
 
 ## Contents
 
